@@ -1,0 +1,6 @@
+﻿Reflection programmatically investigate asseblies
+
+Can show information abou structure and internal mechanics
+
+
+System.Type 
