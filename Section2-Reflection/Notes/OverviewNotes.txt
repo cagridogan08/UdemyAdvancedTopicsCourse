@@ -1,6 +1,19 @@
-﻿Reflection programmatically investigate asseblies
+﻿Reflection
+
+
+
+Reflection programmatically investigate asseblies
 
 Can show information abou structure and internal mechanics
 
 
-System.Type 
+System.Type -> Type information encapsuled in 
+
+Using reflection -> Inspect Types
+			     -> Construct new instances of the type
+			     -> Invoke methods
+				 -> Type's delegate and events
+
+				 Reflection enables serialization,attributes , etc...
+
+

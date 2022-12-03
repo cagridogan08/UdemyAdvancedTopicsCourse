@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section1-Numerics", "Sectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section2-Reflection", "Section2-Reflection\Section2-Reflection.csproj", "{38E74F80-4E09-4931-AFEC-5605FA704394}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section3-DynamicProgramming", "Section3-DynamicProgramming\Section3-DynamicProgramming.csproj", "{2F1B6C1E-C1D9-4DDC-9BC3-CC838B4CC362}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{38E74F80-4E09-4931-AFEC-5605FA704394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38E74F80-4E09-4931-AFEC-5605FA704394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38E74F80-4E09-4931-AFEC-5605FA704394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1B6C1E-C1D9-4DDC-9BC3-CC838B4CC362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1B6C1E-C1D9-4DDC-9BC3-CC838B4CC362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1B6C1E-C1D9-4DDC-9BC3-CC838B4CC362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1B6C1E-C1D9-4DDC-9BC3-CC838B4CC362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

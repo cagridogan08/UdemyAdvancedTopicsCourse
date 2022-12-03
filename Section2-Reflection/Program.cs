@@ -11,11 +11,23 @@ internal class Program
         InspectionSection.InspectionTests();
     }
     private static void Demo3()=>ConstructionSection.ConstructionTests();
+    private static void Demo4()
+    {
+        Invocation.FirstFuncq();
+    }
+    private static void Demo5()
+    {
+        DelegatesAndEvents.FirsFunction();
+    }
+    public static void Demo6() { AttributeSection.TestClass.TestMainFunction(); }
     private static void Main(string[] args)
     {
         //Demo1();
         //Demo2();
-        Demo3();
+        //Demo3();
+        //Demo4();
+        //Demo5();
+        Demo6();
         //Console.WriteLine("Hello, World!");
         //Console.ReadKey();
     }
