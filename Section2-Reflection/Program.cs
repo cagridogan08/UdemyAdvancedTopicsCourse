@@ -24,10 +24,10 @@ internal class Program
     {
         //Demo1();
         //Demo2();
-        //Demo3();
+        Demo3();
         //Demo4();
         //Demo5();
-        Demo6();
+        //Demo6();
         //Console.WriteLine("Hello, World!");
         //Console.ReadKey();
     }

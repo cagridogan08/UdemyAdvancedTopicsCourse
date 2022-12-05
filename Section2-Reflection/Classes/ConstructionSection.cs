@@ -56,6 +56,9 @@ namespace Section2_Reflection.Classes
             var charArrayConstructor = charArrayType?.GetConstructor(new[] { typeof(int) });
             Actions.writeLine(charArrayConstructor);
             var arr = charArrayConstructor?.Invoke(new object[] {20});
+
+            
+            
         }
     }
 }

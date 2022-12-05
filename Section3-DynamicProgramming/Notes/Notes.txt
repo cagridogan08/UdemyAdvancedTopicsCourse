@@ -1,0 +1,11 @@
+﻿
+
+Summary
+
+Dynamic keyword isn't just for interop with dynam.-typed languages
+
+Allows to call members on types, event if these members aren't materialized at compile time
+
+Provide a useful interception
+
+Dynamic dispatch = determines which overload call by checkhing argument types at runtime

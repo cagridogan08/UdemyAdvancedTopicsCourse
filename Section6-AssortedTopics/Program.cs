@@ -1,22 +1,22 @@
-﻿using Section3_DynamicProgramming.Classes;
+﻿using Section6_AssortedTopics.Classes;
 
 internal class Program
 {
     private static void Demo1()
     {
-        DynamicSection.FirstFunction();
+        DisposableSection.Demo1();
     }
     private static void Demo2()
     {
-        DynamicXMLParsingSection.Demo1();
+        DuckTypingAndMixing.Demo1();
     }
     private static void Demo3()
     {
-        ExpandoObjectSection.Demo1();
+        ContinuationPassingStyle.Demo();
     }
     private static void Demo4()
     {
-        DynamicVisitorPattern.DynamicVisitorDemo.FirstFunction();
+        DemoClass.Demo();
     }
     private static void Main(string[] args)
     {

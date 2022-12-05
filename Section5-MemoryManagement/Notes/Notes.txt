@@ -1,0 +1,7 @@
+﻿
+
+in -> pass by reference, readonly
+
+ref readonly -> exposing a readonly member by reference
+
+Span<T> is a 'ref struct'-> acts as a view into collection

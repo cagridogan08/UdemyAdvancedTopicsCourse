@@ -1,29 +1,28 @@
-﻿using Section3_DynamicProgramming.Classes;
+﻿using Section4_ExtensionMethods.Classes;
 
 internal class Program
 {
     private static void Demo1()
     {
-        DynamicSection.FirstFunction();
+        DemoClass.Demo1();
     }
     private static void Demo2()
     {
-        DynamicXMLParsingSection.Demo1();
+        DemoClassValueTuples.Demo1();
     }
     private static void Demo3()
     {
-        ExpandoObjectSection.Demo1();
+        PersistenceDemo.Demo1();
     }
     private static void Demo4()
     {
-        DynamicVisitorPattern.DynamicVisitorDemo.FirstFunction();
+        PatternsDemo.Demo1();
     }
     private static void Main(string[] args)
     {
         //Demo1();
         //Demo2();
         //Demo3();
-        Demo4();
-        //Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!");
     }
 }
